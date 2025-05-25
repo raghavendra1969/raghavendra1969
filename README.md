@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I am Bug everyone try to fix me
 I am currently doing my undergraduate in CSE
 
 
