@@ -1,8 +1,10 @@
-# 💫 About Me:
+# 💫 About Me
 I'm Raghavendra, a 💻 Computer Science undergrad based in Mangalore 🌊🥥.  
 I’m passionate about turning ideas into impactful tech projects 🚀 — and I love coding by the coast! 🌴
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRkaHk2dWtyM2lxanJtZGhxZHNhZjUybDBnMTAyN3UyNDNqb3d1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Dev Gif" />
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRkaHk2dWtyM2lxanJtZGhxZHNhZjUybDBnMTAyN3UyNDNqb3d1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="350" alt="Dev Gif" />
+</p>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
