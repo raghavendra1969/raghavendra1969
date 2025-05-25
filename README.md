@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am currently doing my undergraduate in CSE
+# 💫 About Me: I'm Raghavendra, a 💻 Computer Science undergrad based in Mangalore 🌊🥥.  
+I’m passionate about turning ideas into impactful tech projects 🚀 — and I love coding by the coast! 🌴
+
 
 
 # 💻 Tech Stack:
